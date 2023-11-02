@@ -1,0 +1,6 @@
+#Config File for my watching service
+#Place it to  /etc/sysconfig
+
+#File and word in that file that we will monit
+WORD="ALERT"
+LOG=/var/log/watchlog.log

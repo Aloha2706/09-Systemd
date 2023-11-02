@@ -1,0 +1,42 @@
+---
+- name: Install httpd
+  yum:
+    name: httpd
+    state: present
+  
+- name: Create service template
+  template:
+    src=templates/httpd@.service
+    dest=/etc/systemd/system/httpd@.service
+
+- name: Create httpd-first
+  template:
+    src: templates/httpd-first
+    dest: /etc/sysconfig/httpd-first
+
+- name: Create httpd-second
+  template:
+    src: templates/httpd-second
+    dest: /etc/sysconfig/httpd-second
+
+
+- name: Create first.conf
+  template:
+    src: templates/first.conf
+    dest: /etc/httpd/conf/first.conf
+
+- name: Create second.conf
+  template:
+    src: templates/second.conf
+    dest: /etc/httpd/conf/second.conf
+
+- name: httpd@first start
+  service:
+    name: httpd@first
+    state: started
+
+- name: httpd@second start
+  service:
+    name: httpd@second
+    state: started
+...

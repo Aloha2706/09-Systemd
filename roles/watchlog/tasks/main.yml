@@ -1,0 +1,37 @@
+---
+- name: Create vatchlog vars
+  template:
+    src: templates/watchlog
+    dest: /etc/sysconfig/watchlog
+
+- name: Create vatchlog shell
+  template:
+    src: templates/watchlog.sh
+    dest: /opt/watchlog.sh
+
+- name: Change mode
+  file:
+    path: /opt/watchlog.sh
+    mode: 0755 
+
+- name: Create logfile 
+  template:
+    src=templates/watchlog.log
+    dest=/var/log/watchlog.log
+
+- name: Create service unit
+  template:
+    src=templates/watchlog.service
+    dest=/etc/systemd/system/watchlog.service
+
+- name: Create timer and start
+  template:
+    src=templates/watchlog.timer
+    dest=/etc/systemd/system/watchlog.timer
+    
+
+- name: WatchlogTimer start
+  service:
+    name: watchlog.timer
+    state: started
+...

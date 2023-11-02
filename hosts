@@ -1,0 +1,2 @@
+192.168.88.12 ansible_ssh_private_key_file=/root/Vagrant_dir/09-Systemd/.vagrant/machines/systemd/virtualbox/private_key
+

@@ -1,0 +1,5 @@
+# /etc/sysconfig/httpd-second
+OPTIONS=-f /etc/httpd/conf/second.conf
+
+
+

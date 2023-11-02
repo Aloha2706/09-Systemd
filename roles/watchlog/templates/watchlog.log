@@ -1,0 +1,400 @@
+Oct 22 03:27:02 localhost run-parts(/etc/cron.daily)[22398]: finished logrotate
+Oct 22 03:27:02 localhost run-parts(/etc/cron.daily)[22373]: starting man-db.cron
+Oct 22 03:27:02 localhost run-parts(/etc/cron.daily)[22409]: finished man-db.cron
+Oct 22 03:27:02 localhost anacron[22319]: Job `cron.daily' terminated
+Oct 22 03:27:02 localhost anacron[22319]: Normal exit (1 job run)
+Oct 22 04:01:01 localhost CROND[22480]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 04:01:01 localhost run-parts(/etc/cron.hourly)[22480]: starting 0anacron
+Oct 22 04:01:01 localhost run-parts(/etc/cron.hourly)[22489]: finished 0anacron
+Oct 22 05:01:01 localhost CROND[22629]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 05:01:01 localhost run-parts(/etc/cron.hourly)[22629]: starting 0anacron
+Oct 22 05:01:01 localhost run-parts(/etc/cron.hourly)[22638]: finished 0anacron
+Oct 22 06:01:01 localhost CROND[22763]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 06:01:01 localhost run-parts(/etc/cron.hourly)[22763]: starting 0anacron
+Oct 22 06:01:01 localhost run-parts(/etc/cron.hourly)[22772]: finished 0anacron
+Oct 22 07:01:01 localhost CROND[22895]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 07:01:01 localhost run-parts(/etc/cron.hourly)[22895]: starting 0anacron
+Oct 22 07:01:01 localhost run-parts(/etc/cron.hourly)[22904]: finished 0anacron
+Oct 22 08:01:01 localhost CROND[23050]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 08:01:01 localhost run-parts(/etc/cron.hourly)[23050]: starting 0anacron
+Oct 22 08:01:01 localhost run-parts(/etc/cron.hourly)[23059]: finished 0anacron
+Oct 22 09:01:01 localhost CROND[23158]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 09:01:01 localhost run-parts(/etc/cron.hourly)[23158]: starting 0anacron
+Oct 22 09:01:01 localhost run-parts(/etc/cron.hourly)[23167]: finished 0anacron
+Oct 22 10:01:01 localhost CROND[23292]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 10:01:01 localhost run-parts(/etc/cron.hourly)[23292]: starting 0anacron
+Oct 22 10:01:01 localhost run-parts(/etc/cron.hourly)[23301]: finished 0anacron
+Oct 22 11:01:01 localhost CROND[23467]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 11:01:01 localhost run-parts(/etc/cron.hourly)[23467]: starting 0anacron
+Oct 22 11:01:01 localhost run-parts(/etc/cron.hourly)[23476]: finished 0anacron
+Oct 22 12:01:01 localhost CROND[23609]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 12:01:01 localhost run-parts(/etc/cron.hourly)[23609]: starting 0anacron
+Oct 22 12:01:01 localhost run-parts(/etc/cron.hourly)[23618]: finished 0anacron
+Oct 22 13:01:01 localhost CROND[23727]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 13:01:01 localhost run-parts(/etc/cron.hourly)[23727]: starting 0anacron
+Oct 22 13:01:01 localhost run-parts(/etc/cron.hourly)[23736]: finished 0anacron
+Oct 22 14:01:01 localhost CROND[24854]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 14:01:01 localhost run-parts(/etc/cron.hourly)[24854]: starting 0anacron
+Oct 22 14:01:01 localhost run-parts(/etc/cron.hourly)[24863]: finished 0anacron
+Oct 22 15:01:02 localhost CROND[26031]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 15:01:02 localhost run-parts(/etc/cron.hourly)[26031]: starting 0anacron
+Oct 22 15:01:02 localhost run-parts(/etc/cron.hourly)[26040]: finished 0anacron
+Oct 22 16:01:01 localhost CROND[26250]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 16:01:01 localhost run-parts(/etc/cron.hourly)[26250]: starting 0anacron
+Oct 22 16:01:01 localhost run-parts(/etc/cron.hourly)[26259]: finished 0anacron
+Oct 22 17:01:01 localhost CROND[27880]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 17:01:01 localhost run-parts(/etc/cron.hourly)[27880]: starting 0anacron
+Oct 22 17:01:01 localhost run-parts(/etc/cron.hourly)[27889]: finished 0anacron
+Oct 22 18:01:01 localhost CROND[28298]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 18:01:01 localhost run-parts(/etc/cron.hourly)[28298]: starting 0anacron
+Oct 22 18:01:01 localhost run-parts(/etc/cron.hourly)[28307]: finished 0anacron
+Oct 22 19:01:01 localhost CROND[28534]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 19:01:01 localhost run-parts(/etc/cron.hourly)[28534]: starting 0anacron
+Oct 22 19:01:01 localhost run-parts(/etc/cron.hourly)[28543]: finished 0anacron
+Oct 22 20:01:01 localhost CROND[28790]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 20:01:01 localhost run-parts(/etc/cron.hourly)[28790]: starting 0anacron
+Oct 22 20:01:01 localhost run-parts(/etc/cron.hourly)[28799]: finished 0anacron
+Oct 22 21:01:01 localhost CROND[29002]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 21:01:01 localhost run-parts(/etc/cron.hourly)[29002]: starting 0anacron
+Oct 22 21:01:01 localhost run-parts(/etc/cron.hourly)[29011]: finished 0anacron
+Oct 22 22:01:01 localhost CROND[29240]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 22:01:01 localhost run-parts(/etc/cron.hourly)[29240]: starting 0anacron
+Oct 22 22:01:02 localhost run-parts(/etc/cron.hourly)[29249]: finished 0anacron
+Oct 22 23:01:01 localhost CROND[29494]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 22 23:01:01 localhost run-parts(/etc/cron.hourly)[29494]: starting 0anacron
+Oct 22 23:01:01 localhost run-parts(/etc/cron.hourly)[29503]: finished 0anacron
+Oct 23 00:01:01 localhost CROND[29729]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 00:01:01 localhost run-parts(/etc/cron.hourly)[29729]: starting 0anacron
+Oct 23 00:01:01 localhost anacron[29738]: Anacron started on 2023-10-23
+Oct 23 00:01:01 localhost anacron[29738]: Normal exit (0 jobs run)
+Oct 23 00:01:01 localhost run-parts(/etc/cron.hourly)[29740]: finished 0anacron
+Oct 23 01:01:01 localhost CROND[29969]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 01:01:01 localhost run-parts(/etc/cron.hourly)[29969]: starting 0anacron
+Oct 23 01:01:01 localhost anacron[29978]: Anacron started on 2023-10-23
+Oct 23 01:01:01 localhost anacron[29978]: Normal exit (0 jobs run)
+Oct 23 01:01:01 localhost run-parts(/etc/cron.hourly)[29980]: finished 0anacron
+Oct 23 02:01:01 localhost CROND[30199]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 02:01:01 localhost run-parts(/etc/cron.hourly)[30199]: starting 0anacron
+Oct 23 02:01:01 localhost anacron[30208]: Anacron started on 2023-10-23
+Oct 23 02:01:01 localhost anacron[30208]: Normal exit (0 jobs run)
+Oct 23 02:01:01 localhost run-parts(/etc/cron.hourly)[30210]: finished 0anacron
+Oct 23 03:01:01 localhost CROND[31256]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 03:01:01 localhost run-parts(/etc/cron.hourly)[31256]: starting 0anacron
+Oct 23 03:01:01 localhost anacron[31265]: Anacron started on 2023-10-23
+Oct 23 03:01:01 localhost anacron[31265]: Will run job `cron.daily' in 45 min.
+Oct 23 03:01:01 localhost anacron[31265]: Will run job `cron.weekly' in 65 min.
+Oct 23 03:01:01 localhost anacron[31265]: Jobs will be executed sequentially
+Oct 23 03:01:01 localhost run-parts(/etc/cron.hourly)[31267]: finished 0anacron
+Oct 23 03:46:01 localhost anacron[31265]: Job `cron.daily' started
+Oct 23 03:46:01 localhost run-parts(/etc/cron.daily)[31421]: starting etckeeper
+Oct 23 03:46:01 localhost run-parts(/etc/cron.daily)[31435]: finished etckeeper
+Oct 23 03:46:01 localhost run-parts(/etc/cron.daily)[31421]: starting logrotate
+Oct 23 03:46:01 localhost run-parts(/etc/cron.daily)[31442]: finished logrotate
+Oct 23 03:46:01 localhost run-parts(/etc/cron.daily)[31421]: starting man-db.cron
+Oct 23 03:46:02 localhost run-parts(/etc/cron.daily)[31453]: finished man-db.cron
+Oct 23 03:46:02 localhost anacron[31265]: Job `cron.daily' terminated
+Oct 23 04:01:01 localhost CROND[31529]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 04:01:01 localhost run-parts(/etc/cron.hourly)[31529]: starting 0anacron
+Oct 23 04:01:01 localhost run-parts(/etc/cron.hourly)[31538]: finished 0anacron
+Oct 23 04:06:01 localhost anacron[31265]: Job `cron.weekly' started
+Oct 23 04:06:01 localhost anacron[31265]: Job `cron.weekly' terminated
+Oct 23 04:06:01 localhost anacron[31265]: Normal exit (2 jobs run)
+Oct 23 05:01:01 localhost CROND[31818]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 05:01:01 localhost run-parts(/etc/cron.hourly)[31818]: starting 0anacron
+Oct 23 05:01:01 localhost run-parts(/etc/cron.hourly)[31827]: finished 0anacron
+Oct 23 06:01:02 localhost CROND[36074]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 06:01:02 localhost run-parts(/etc/cron.hourly)[36074]: starting 0anacron
+Oct 23 06:01:02 localhost run-parts(/etc/cron.hourly)[36083]: finished 0anacron
+Oct 23 07:01:01 localhost CROND[39787]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 07:01:01 localhost run-parts(/etc/cron.hourly)[39787]: starting 0anacron
+Oct 23 07:01:01 localhost run-parts(/etc/cron.hourly)[39796]: finished 0anacron
+Oct 23 08:01:01 localhost CROND[43702]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 08:01:01 localhost run-parts(/etc/cron.hourly)[43702]: starting 0anacron
+Oct 23 08:01:01 localhost run-parts(/etc/cron.hourly)[43711]: finished 0anacron
+Oct 23 09:01:01 localhost CROND[47564]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 09:01:01 localhost run-parts(/etc/cron.hourly)[47564]: starting 0anacron
+Oct 23 09:01:01 localhost run-parts(/etc/cron.hourly)[47573]: finished 0anacron
+Oct 23 10:01:01 localhost CROND[51495]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 10:01:01 localhost run-parts(/etc/cron.hourly)[51495]: starting 0anacron
+Oct 23 10:01:01 localhost run-parts(/etc/cron.hourly)[51504]: finished 0anacron
+Oct 23 11:01:01 localhost CROND[55469]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 11:01:01 localhost run-parts(/etc/cron.hourly)[55469]: starting 0anacron
+Oct 23 11:01:01 localhost run-parts(/etc/cron.hourly)[55478]: finished 0anacron
+Oct 23 12:01:01 localhost CROND[59289]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 12:01:01 localhost run-parts(/etc/cron.hourly)[59289]: starting 0anacron
+Oct 23 12:01:01 localhost run-parts(/etc/cron.hourly)[59298]: finished 0anacron
+Oct 23 13:01:01 localhost CROND[63083]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 13:01:01 localhost run-parts(/etc/cron.hourly)[63083]: starting 0anacron
+Oct 23 13:01:01 localhost run-parts(/etc/cron.hourly)[63092]: finished 0anacron
+Oct 23 14:01:01 localhost CROND[66861]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 14:01:01 localhost run-parts(/etc/cron.hourly)[66861]: starting 0anacron
+Oct 23 14:01:01 localhost run-parts(/etc/cron.hourly)[66870]: finished 0anacron
+Oct 23 15:01:01 localhost CROND[70664]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 15:01:01 localhost run-parts(/etc/cron.hourly)[70664]: starting 0anacron
+Oct 23 15:01:01 localhost run-parts(/etc/cron.hourly)[70673]: finished 0anacron
+Oct 23 16:01:01 localhost CROND[74427]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 16:01:01 localhost run-parts(/etc/cron.hourly)[74427]: starting 0anacron
+Oct 23 16:01:01 localhost run-parts(/etc/cron.hourly)[74436]: finished 0anacron
+Oct 23 17:01:01 localhost CROND[78223]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 17:01:01 localhost run-parts(/etc/cron.hourly)[78223]: starting 0anacron
+Oct 23 17:01:01 localhost run-parts(/etc/cron.hourly)[78232]: finished 0anacron
+Oct 23 18:01:01 localhost CROND[82023]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 18:01:01 localhost run-parts(/etc/cron.hourly)[82023]: starting 0anacron
+Oct 23 18:01:01 localhost run-parts(/etc/cron.hourly)[82032]: finished 0anacron
+Oct 23 19:01:01 localhost CROND[85834]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 19:01:01 localhost run-parts(/etc/cron.hourly)[85834]: starting 0anacron
+Oct 23 19:01:01 localhost run-parts(/etc/cron.hourly)[85843]: finished 0anacron
+Oct 23 20:01:01 localhost CROND[89727]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 20:01:01 localhost run-parts(/etc/cron.hourly)[89727]: starting 0anacron
+Oct 23 20:01:01 localhost run-parts(/etc/cron.hourly)[89736]: finished 0anacron
+Oct 23 21:01:01 localhost CROND[93579]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 21:01:01 localhost run-parts(/etc/cron.hourly)[93579]: starting 0anacron
+Oct 23 21:01:01 localhost run-parts(/etc/cron.hourly)[93588]: finished 0anacron
+Oct 23 22:01:01 localhost CROND[97468]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 22:01:01 localhost run-parts(/etc/cron.hourly)[97468]: starting 0anacron
+Oct 23 22:01:01 localhost run-parts(/etc/cron.hourly)[97477]: finished 0anacron
+Oct 23 23:01:01 localhost CROND[101400]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 23 23:01:01 localhost run-parts(/etc/cron.hourly)[101400]: starting 0anacron
+Oct 23 23:01:01 localhost run-parts(/etc/cron.hourly)[101409]: finished 0anacron
+Oct 24 00:01:01 localhost CROND[105322]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 00:01:01 localhost run-parts(/etc/cron.hourly)[105322]: starting 0anacron
+Oct 24 00:01:01 localhost anacron[105331]: Anacron started on 2023-10-24
+Oct 24 00:01:01 localhost anacron[105331]: Normal exit (0 jobs run)
+Oct 24 00:01:01 localhost run-parts(/etc/cron.hourly)[105333]: finished 0anacron
+Oct 24 01:01:01 localhost CROND[109242]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 01:01:01 localhost run-parts(/etc/cron.hourly)[109242]: starting 0anacron
+Oct 24 01:01:01 localhost anacron[109251]: Anacron started on 2023-10-24
+Oct 24 01:01:01 localhost anacron[109251]: Normal exit (0 jobs run)
+Oct 24 01:01:01 localhost run-parts(/etc/cron.hourly)[109253]: finished 0anacron
+Oct 24 02:01:02 localhost CROND[113236]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 02:01:02 localhost run-parts(/etc/cron.hourly)[113236]: starting 0anacron
+Oct 24 02:01:02 localhost anacron[113245]: Anacron started on 2023-10-24
+Oct 24 02:01:02 localhost anacron[113245]: Normal exit (0 jobs run)
+Oct 24 02:01:02 localhost run-parts(/etc/cron.hourly)[113247]: finished 0anacron
+Oct 24 03:01:01 localhost CROND[117193]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 03:01:01 localhost run-parts(/etc/cron.hourly)[117193]: starting 0anacron
+Oct 24 03:01:01 localhost anacron[117202]: Anacron started on 2023-10-24
+Oct 24 03:01:01 localhost anacron[117202]: Will run job `cron.daily' in 38 min.
+Oct 24 03:01:01 localhost anacron[117202]: Jobs will be executed sequentially
+Oct 24 03:01:01 localhost run-parts(/etc/cron.hourly)[117204]: finished 0anacron
+Oct 24 03:39:01 localhost anacron[117202]: Job `cron.daily' started
+Oct 24 03:39:01 localhost run-parts(/etc/cron.daily)[119682]: starting etckeeper
+Oct 24 03:39:01 localhost run-parts(/etc/cron.daily)[119696]: finished etckeeper
+Oct 24 03:39:01 localhost run-parts(/etc/cron.daily)[119682]: starting logrotate
+Oct 24 03:39:01 localhost run-parts(/etc/cron.daily)[119703]: finished logrotate
+Oct 24 03:39:01 localhost run-parts(/etc/cron.daily)[119682]: starting man-db.cron
+Oct 24 03:39:01 localhost run-parts(/etc/cron.daily)[119714]: finished man-db.cron
+Oct 24 03:39:01 localhost anacron[117202]: Job `cron.daily' terminated
+Oct 24 03:39:01 localhost anacron[117202]: Normal exit (1 job run)
+Oct 24 04:01:01 localhost CROND[121141]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 04:01:01 localhost run-parts(/etc/cron.hourly)[121141]: starting 0anacron
+Oct 24 04:01:01 localhost run-parts(/etc/cron.hourly)[121150]: finished 0anacron
+Oct 24 05:01:01 localhost CROND[125136]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 05:01:01 localhost run-parts(/etc/cron.hourly)[125136]: starting 0anacron
+Oct 24 05:01:01 localhost run-parts(/etc/cron.hourly)[125145]: finished 0anacron
+Oct 24 06:01:01 localhost CROND[129092]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 06:01:01 localhost run-parts(/etc/cron.hourly)[129092]: starting 0anacron
+Oct 24 06:01:01 localhost run-parts(/etc/cron.hourly)[129101]: finished 0anacron
+Oct 24 07:01:01 localhost CROND[2316]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 07:01:01 localhost run-parts(/etc/cron.hourly)[2316]: starting 0anacron
+Oct 24 07:01:01 localhost run-parts(/etc/cron.hourly)[2325]: finished 0anacron
+Oct 24 08:01:01 localhost CROND[6301]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 08:01:01 localhost run-parts(/etc/cron.hourly)[6301]: starting 0anacron
+Oct 24 08:01:01 localhost run-parts(/etc/cron.hourly)[6310]: finished 0anacron
+Oct 24 09:01:01 localhost CROND[10238]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 09:01:01 localhost run-parts(/etc/cron.hourly)[10238]: starting 0anacron
+Oct 24 09:01:01 localhost run-parts(/etc/cron.hourly)[10247]: finished 0anacron
+Oct 24 11:01:01 localhost CROND[17158]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 11:01:01 localhost run-parts(/etc/cron.hourly)[17158]: starting 0anacron
+Oct 24 11:01:01 localhost run-parts(/etc/cron.hourly)[17167]: finished 0anacron
+Oct 24 12:01:01 localhost CROND[21156]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 12:01:01 localhost run-parts(/etc/cron.hourly)[21156]: starting 0anacron
+Oct 24 12:01:01 localhost run-parts(/etc/cron.hourly)[21165]: finished 0anacron
+Oct 24 13:01:01 localhost CROND[25102]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 13:01:01 localhost run-parts(/etc/cron.hourly)[25102]: starting 0anacron
+Oct 24 13:01:01 localhost run-parts(/etc/cron.hourly)[25111]: finished 0anacron
+Oct 24 14:01:01 localhost CROND[26990]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 14:01:01 localhost run-parts(/etc/cron.hourly)[26990]: starting 0anacron
+Oct 24 14:01:01 localhost run-parts(/etc/cron.hourly)[26999]: finished 0anacron
+Oct 24 15:01:01 localhost CROND[27200]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 15:01:01 localhost run-parts(/etc/cron.hourly)[27200]: starting 0anacron
+Oct 24 15:01:01 localhost run-parts(/etc/cron.hourly)[27209]: finished 0anacron
+Oct 24 16:01:01 localhost CROND[27318]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 16:01:01 localhost run-parts(/etc/cron.hourly)[27318]: starting 0anacron
+Oct 24 16:01:01 localhost run-parts(/etc/cron.hourly)[27327]: finished 0anacron
+Oct 24 17:01:01 localhost CROND[27459]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 17:01:01 localhost run-parts(/etc/cron.hourly)[27459]: starting 0anacron
+Oct 24 17:01:01 localhost run-parts(/etc/cron.hourly)[27468]: finished 0anacron
+Oct 24 18:01:01 localhost CROND[27644]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 18:01:02 localhost run-parts(/etc/cron.hourly)[27644]: starting 0anacron
+Oct 24 18:01:02 localhost run-parts(/etc/cron.hourly)[27653]: finished 0anacron
+Oct 24 19:01:01 localhost CROND[27764]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 19:01:01 localhost run-parts(/etc/cron.hourly)[27764]: starting 0anacron
+Oct 24 19:01:01 localhost run-parts(/etc/cron.hourly)[27773]: finished 0anacron
+Oct 24 20:01:01 localhost CROND[27905]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 20:01:01 localhost run-parts(/etc/cron.hourly)[27905]: starting 0anacron
+Oct 24 20:01:01 localhost run-parts(/etc/cron.hourly)[27914]: finished 0anacron
+Oct 24 21:01:01 localhost CROND[28068]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 21:01:01 localhost run-parts(/etc/cron.hourly)[28068]: starting 0anacron
+Oct 24 21:01:01 localhost run-parts(/etc/cron.hourly)[28077]: finished 0anacron
+Oct 24 22:01:01 localhost CROND[28209]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 22:01:01 localhost run-parts(/etc/cron.hourly)[28209]: starting 0anacron
+Oct 24 22:01:01 localhost run-parts(/etc/cron.hourly)[28218]: finished 0anacron
+Oct 24 23:01:01 localhost CROND[28330]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 24 23:01:01 localhost run-parts(/etc/cron.hourly)[28330]: starting 0anacron
+Oct 24 23:01:01 localhost run-parts(/etc/cron.hourly)[28339]: finished 0anacron
+Oct 25 00:01:01 localhost CROND[28495]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 00:01:01 localhost run-parts(/etc/cron.hourly)[28495]: starting 0anacron
+Oct 25 00:01:01 localhost anacron[28504]: Anacron started on 2023-10-25
+Oct 25 00:01:01 localhost anacron[28504]: Normal exit (0 jobs run)
+Oct 25 00:01:01 localhost run-parts(/etc/cron.hourly)[28506]: finished 0anacron
+Oct 25 01:01:01 localhost CROND[28636]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 01:01:01 localhost run-parts(/etc/cron.hourly)[28636]: starting 0anacron
+Oct 25 01:01:01 localhost anacron[28645]: Anacron started on 2023-10-25
+Oct 25 01:01:01 localhost anacron[28645]: Normal exit (0 jobs run)
+Oct 25 01:01:01 localhost run-parts(/etc/cron.hourly)[28647]: finished 0anacron
+Oct 25 02:01:01 localhost CROND[29220]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 02:01:01 localhost run-parts(/etc/cron.hourly)[29220]: starting 0anacron
+Oct 25 02:01:01 localhost anacron[29229]: Anacron started on 2023-10-25
+Oct 25 02:01:01 localhost anacron[29229]: Normal exit (0 jobs run)
+Oct 25 02:01:01 localhost run-parts(/etc/cron.hourly)[29231]: finished 0anacron
+Oct 25 03:01:01 localhost CROND[29634]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 03:01:01 localhost run-parts(/etc/cron.hourly)[29634]: starting 0anacron
+Oct 25 03:01:01 localhost anacron[29643]: Anacron started on 2023-10-25
+Oct 25 03:01:01 localhost anacron[29643]: Will run job `cron.daily' in 48 min.
+Oct 25 03:01:01 localhost anacron[29643]: Jobs will be executed sequentially
+Oct 25 03:01:01 localhost run-parts(/etc/cron.hourly)[29645]: finished 0anacron
+Oct 25 03:49:01 localhost anacron[29643]: Job `cron.daily' started
+Oct 25 03:49:01 localhost run-parts(/etc/cron.daily)[29891]: starting etckeeper
+Oct 25 03:49:01 localhost run-parts(/etc/cron.daily)[29905]: finished etckeeper
+Oct 25 03:49:01 localhost run-parts(/etc/cron.daily)[29891]: starting logrotate
+Oct 25 03:49:01 localhost run-parts(/etc/cron.daily)[29912]: finished logrotate
+Oct 25 03:49:01 localhost run-parts(/etc/cron.daily)[29891]: starting man-db.cron
+Oct 25 03:49:01 localhost run-parts(/etc/cron.daily)[29923]: finished man-db.cron
+Oct 25 03:49:01 localhost anacron[29643]: Job `cron.daily' terminated
+Oct 25 03:49:01 localhost anacron[29643]: Normal exit (1 job run)
+Oct 25 04:01:01 localhost CROND[29972]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 04:01:01 localhost run-parts(/etc/cron.hourly)[29972]: starting 0anacron
+Oct 25 04:01:01 localhost run-parts(/etc/cron.hourly)[29981]: finished 0anacron
+Oct 25 05:01:01 localhost CROND[30209]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 05:01:01 localhost run-parts(/etc/cron.hourly)[30209]: starting 0anacron
+Oct 25 05:01:01 localhost run-parts(/etc/cron.hourly)[30218]: finished 0anacron
+Oct 25 06:01:01 localhost CROND[30507]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 06:01:01 localhost run-parts(/etc/cron.hourly)[30507]: starting 0anacron
+Oct 25 06:01:01 localhost run-parts(/etc/cron.hourly)[30516]: finished 0anacron
+Oct 25 07:01:01 localhost CROND[30742]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 07:01:01 localhost run-parts(/etc/cron.hourly)[30742]: starting 0anacron
+Oct 25 07:01:01 localhost run-parts(/etc/cron.hourly)[30751]: finished 0anacron
+Oct 25 08:01:01 localhost CROND[30999]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 08:01:01 localhost run-parts(/etc/cron.hourly)[30999]: starting 0anacron
+Oct 25 08:01:01 localhost run-parts(/etc/cron.hourly)[31008]: finished 0anacron
+Oct 25 09:01:01 localhost CROND[31269]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 09:01:01 localhost run-parts(/etc/cron.hourly)[31269]: starting 0anacron
+Oct 25 09:01:01 localhost run-parts(/etc/cron.hourly)[31278]: finished 0anacron
+Oct 25 11:01:01 localhost CROND[31703]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 11:01:01 localhost run-parts(/etc/cron.hourly)[31703]: starting 0anacron
+Oct 25 11:01:01 localhost run-parts(/etc/cron.hourly)[31712]: finished 0anacron
+Oct 25 12:01:01 localhost CROND[32200]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 12:01:01 localhost run-parts(/etc/cron.hourly)[32200]: starting 0anacron
+Oct 25 12:01:01 localhost run-parts(/etc/cron.hourly)[32209]: finished 0anacron
+Oct 25 13:01:01 localhost CROND[32647]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 13:01:01 localhost run-parts(/etc/cron.hourly)[32647]: starting 0anacron
+Oct 25 13:01:01 localhost run-parts(/etc/cron.hourly)[32656]: finished 0anacron
+Oct 25 14:01:01 localhost CROND[32900]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 14:01:01 localhost run-parts(/etc/cron.hourly)[32900]: starting 0anacron
+Oct 25 14:01:01 localhost run-parts(/etc/cron.hourly)[32909]: finished 0anacron
+Oct 25 15:01:01 localhost CROND[33388]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 15:01:01 localhost run-parts(/etc/cron.hourly)[33388]: starting 0anacron
+Oct 25 15:01:01 localhost run-parts(/etc/cron.hourly)[33397]: finished 0anacron
+Oct 25 16:01:01 localhost CROND[33974]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 16:01:01 localhost run-parts(/etc/cron.hourly)[33974]: starting 0anacron
+Oct 25 16:01:01 localhost run-parts(/etc/cron.hourly)[33983]: finished 0anacron
+Oct 25 17:01:01 localhost CROND[34588]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 17:01:01 localhost run-parts(/etc/cron.hourly)[34588]: starting 0anacron
+Oct 25 17:01:01 localhost run-parts(/etc/cron.hourly)[34597]: finished 0anacron
+Oct 25 18:01:01 localhost CROND[35247]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 18:01:01 localhost run-parts(/etc/cron.hourly)[35247]: starting 0anacron
+Oct 25 18:01:01 localhost run-parts(/etc/cron.hourly)[35256]: finished 0anacron
+Oct 25 19:01:01 localhost CROND[35839]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 19:01:01 localhost run-parts(/etc/cron.hourly)[35839]: starting 0anacron
+Oct 25 19:01:01 localhost run-parts(/etc/cron.hourly)[35848]: finished 0anacron
+Oct 25 20:01:01 localhost CROND[36455]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 20:01:01 localhost run-parts(/etc/cron.hourly)[36455]: starting 0anacron
+Oct 25 20:01:01 localhost run-parts(/etc/cron.hourly)[36464]: finished 0anacron
+Oct 25 21:01:01 localhost CROND[37090]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 21:01:01 localhost run-parts(/etc/cron.hourly)[37090]: starting 0anacron
+Oct 25 21:01:01 localhost run-parts(/etc/cron.hourly)[37099]: finished 0anacron
+Oct 25 22:01:01 localhost CROND[37711]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 22:01:01 localhost run-parts(/etc/cron.hourly)[37711]: starting 0anacron
+Oct 25 22:01:01 localhost run-parts(/etc/cron.hourly)[37720]: finished 0anacron
+Oct 25 23:01:01 localhost CROND[38284]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 25 23:01:01 localhost run-parts(/etc/cron.hourly)[38284]: starting 0anacron
+Oct 25 23:01:01 localhost run-parts(/etc/cron.hourly)[38293]: finished 0anacron
+Oct 26 00:01:01 localhost CROND[39168]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 00:01:01 localhost run-parts(/etc/cron.hourly)[39168]: starting 0anacron
+Oct 26 00:01:01 localhost anacron[39177]: Anacron started on 2023-10-26
+Oct 26 00:01:01 localhost anacron[39177]: Normal exit (0 jobs run)
+Oct 26 00:01:01 localhost run-parts(/etc/cron.hourly)[39179]: finished 0anacron
+Oct 26 01:01:01 localhost CROND[39552]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 01:01:01 localhost run-parts(/etc/cron.hourly)[39552]: starting 0anacron
+Oct 26 01:01:01 localhost anacron[39561]: Anacron started on 2023-10-26
+Oct 26 01:01:01 localhost anacron[39561]: Normal exit (0 jobs run)
+Oct 26 01:01:01 localhost run-parts(/etc/cron.hourly)[39563]: finished 0anacron
+Oct 26 02:01:02 localhost CROND[41558]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 02:01:02 localhost run-parts(/etc/cron.hourly)[41558]: starting 0anacron
+Oct 26 02:01:02 localhost anacron[41567]: Anacron started on 2023-10-26
+Oct 26 02:01:02 localhost anacron[41567]: Normal exit (0 jobs run)
+Oct 26 02:01:02 localhost run-parts(/etc/cron.hourly)[41569]: finished 0anacron
+Oct 26 03:01:01 localhost CROND[41765]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 03:01:01 localhost run-parts(/etc/cron.hourly)[41765]: starting 0anacron
+Oct 26 03:01:01 localhost anacron[41774]: Anacron started on 2023-10-26
+Oct 26 03:01:01 localhost anacron[41774]: Will run job `cron.daily' in 5 min.
+Oct 26 03:01:01 localhost anacron[41774]: Jobs will be executed sequentially
+Oct 26 03:01:01 localhost run-parts(/etc/cron.hourly)[41776]: finished 0anacron
+Oct 26 03:06:01 localhost anacron[41774]: Job `cron.daily' started
+Oct 26 03:06:01 localhost run-parts(/etc/cron.daily)[41780]: starting etckeeper
+Oct 26 03:06:01 localhost run-parts(/etc/cron.daily)[41794]: finished etckeeper
+Oct 26 03:06:01 localhost run-parts(/etc/cron.daily)[41780]: starting logrotate
+Oct 26 03:06:01 localhost run-parts(/etc/cron.daily)[41801]: finished logrotate
+Oct 26 03:06:01 localhost run-parts(/etc/cron.daily)[41780]: starting man-db.cron
+Oct 26 03:06:02 localhost run-parts(/etc/cron.daily)[41812]: finished man-db.cron
+Oct 26 03:06:02 localhost anacron[41774]: Job `cron.daily' terminated
+Oct 26 03:06:02 localhost anacron[41774]: Normal exit (1 job run)
+Oct 26 04:01:01 localhost CROND[41965]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 04:01:01 localhost run-parts(/etc/cron.hourly)[41965]: starting 0anacron
+Oct 26 04:01:01 localhost run-parts(/etc/cron.hourly)[41974]: finished 0anacron
+Oct 26 05:01:02 localhost CROND[42108]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 05:01:02 localhost run-parts(/etc/cron.hourly)[42108]: starting 0anacron
+Oct 26 05:01:02 localhost run-parts(/etc/cron.hourly)[42117]: finished 0anacron
+Oct 26 06:01:01 localhost CROND[42313]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 06:01:01 localhost run-parts(/etc/cron.hourly)[42313]: starting 0anacron
+Oct 26 06:01:01 localhost run-parts(/etc/cron.hourly)[42322]: finished 0anacron
+Oct 26 07:01:01 localhost CROND[42481]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 07:01:01 localhost run-parts(/etc/cron.hourly)[42481]: starting 0anacron
+Oct 26 07:01:01 localhost run-parts(/etc/cron.hourly)[42490]: finished 0anacron
+Oct 26 08:01:02 localhost CROND[42622]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 08:01:02 localhost run-parts(/etc/cron.hourly)[42622]: starting 0anacron
+Oct 26 08:01:02 localhost run-parts(/etc/cron.hourly)[42631]: finished 0anacron
+Oct 26 09:01:01 localhost CROND[42824]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 09:01:01 localhost run-parts(/etc/cron.hourly)[42824]: starting 0anacron
+Oct 26 09:01:01 localhost run-parts(/etc/cron.hourly)[42833]: finished 0anacron
+Oct 26 10:01:01 localhost CROND[42989]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 10:01:01 localhost run-parts(/etc/cron.hourly)[42989]: starting 0anacron
+Oct 26 10:01:01 localhost run-parts(/etc/cron.hourly)[42998]: finished 0anacron
+Oct 26 11:01:01 localhost CROND[43133]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 11:01:01 localhost run-parts(/etc/cron.hourly)[43133]: starting 0anacron
+Oct 26 11:01:01 localhost run-parts(/etc/cron.hourly)[43142]: finished 0anacron
+Oct 26 12:01:01 localhost CROND[43382]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 12:01:01 localhost run-parts(/etc/cron.hourly)[43382]: starting 0anacron
+Oct 26 12:01:02 localhost run-parts(/etc/cron.hourly)[43391]: finished 0anacron
+Oct 26 13:01:01 localhost CROND[43545]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 13:01:01 localhost run-parts(/etc/cron.hourly)[43545]: starting 0anacron
+Oct 26 13:01:01 localhost run-parts(/etc/cron.hourly)[43554]: finished 0anacron
+Oct 26 14:01:01 localhost CROND[43713]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 14:01:01 localhost run-parts(/etc/cron.hourly)[43713]: starting 0anacron
+Oct 26 14:01:01 localhost run-parts(/etc/cron.hourly)[43722]: finished 0anacron
+Oct 26 15:01:01 localhost CROND[43896]: (root) CMD (run-parts /etc/cron.hourly)
+Oct 26 15:01:01 localhost run-parts(/etc/cron.hourly)[43896]: starting 0anacron
+Oct 26 15:01:01 localhost run-parts(/etc/cron.hourly)[43905]: finished 0anacron
+ALERT
+ALERT

@@ -1,0 +1,6 @@
+---
+- name: WatchlogTimer start
+  service:
+    name: watchlog.timer
+    state: started
+...

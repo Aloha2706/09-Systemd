@@ -1,0 +1,4 @@
+# /etc/sysconfig/httpd-first
+OPTIONS=-f /etc/httpd/conf/first.conf
+
+
